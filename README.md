@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello world! 👋
+
+- 🌱 I’m currently learning HTML, CSS, and JavaScript.
+- 💌 I love to write clean, high-quality code, with a focus on test-driven development.
+- ⚡ Fun fact: I enjoy playing video games, reading books, and watching anime.
+- 🧑‍🎓 I’m currently pursuing a Bachelor's in Software Development.
+
+
 
 <!--
 **erin-major/erin-major** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
